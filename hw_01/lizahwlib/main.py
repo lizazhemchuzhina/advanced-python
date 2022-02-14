@@ -2,8 +2,8 @@ import ast
 import inspect
 import networkx as nx
 
-from ast_graph import AstGraph
-from fibonacci import fibonacci
+from hw_01.lizahwlib.ast_graph import AstGraph
+from hw_01.lizahwlib.fibonacci import fibonacci
 
 if __name__ == "__main__":
     ast_object = ast.parse(inspect.getsource(fibonacci))
