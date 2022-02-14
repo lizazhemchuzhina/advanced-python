@@ -6,7 +6,7 @@ RUN apt-get update
 RUN python3 -m pip install pydot
 RUN apt-get -y install graphviz
 RUN python3 -m pip install networkx
-RUN python3 -m pip install lizahwliblove
+RUN python3 -m pip install lizaliblove
 RUN apt-get install -y texlive
 
 CMD python3 /latexscript/main.py

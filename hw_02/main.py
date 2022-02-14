@@ -1,5 +1,5 @@
 import os
-from lizahwliblove.main import draw_ast
+from lizaliblove.main import draw_ast
 
 
 def generate_begin():

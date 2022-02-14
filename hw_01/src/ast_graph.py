@@ -44,8 +44,8 @@ class AstGraph(ast.NodeVisitor):
             self.graph.add_edge(node, self.visit(element))
         return node
 
-    def visit_Constant(self, node):
-        self.graph.add_node(node, shape='box', label=f'Constant: {node.value}', fillcolor='gray', style='filled')
+    def visit_Num(self, node):
+        self.graph.add_node(node, shape='box', label=f'Num: {node.value}', fillcolor='gray', style='filled')
         return node
 
     def visit_For(self, node):
