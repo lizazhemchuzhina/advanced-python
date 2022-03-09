@@ -1,0 +1,48 @@
+Task number: 1
+Threads: with time: 0.0004906654357910156 and final result: 1.0007851925466296
+ Processes with time: 0.003354310989379883 and final result : 1.0007851925466296 
+Task number: 2
+Threads: with time: 0.00043320655822753906 and final result: 1.0007851925466305
+ Processes with time: 0.0027124881744384766 and final result : 1.0007851925466305 
+Task number: 3
+Threads: with time: 0.0004825592041015625 and final result: 1.0007827251465446
+ Processes with time: 0.003602743148803711 and final result : 1.0007827251465446 
+Task number: 4
+Threads: with time: 0.0005767345428466797 and final result: 1.00078519254663
+ Processes with time: 0.003668069839477539 and final result : 1.00078519254663 
+Task number: 5
+Threads: with time: 0.0004985332489013672 and final result: 1.0007851925466305
+ Processes with time: 0.004291534423828125 and final result : 1.0007851925466305 
+Task number: 6
+Threads: with time: 0.0006608963012695312 and final result: 1.0007605186370956
+ Processes with time: 0.005172014236450195 and final result : 1.0007605186370956 
+Task number: 7
+Threads: with time: 0.0006098747253417969 and final result: 1.0007333775709961
+ Processes with time: 0.0062677860260009766 and final result : 1.0007333775709961 
+Task number: 8
+Threads: with time: 0.0008919239044189453 and final result: 1.0007851925466307
+ Processes with time: 0.0060596466064453125 and final result : 1.0007851925466307 
+Task number: 9
+Threads: with time: 0.0006012916564941406 and final result: 1.000782725146545
+ Processes with time: 0.006541728973388672 and final result : 1.0007827251465453 
+Task number: 10
+Threads: with time: 0.0007421970367431641 and final result: 1.0007851925466307
+ Processes with time: 0.007305145263671875 and final result : 1.0007851925466307 
+Task number: 11
+Threads: with time: 0.0007166862487792969 and final result: 1.000649488555489
+ Processes with time: 0.007754087448120117 and final result : 1.000649488555489 
+Task number: 12
+Threads: with time: 0.0007658004760742188 and final result: 1.0007605186370954
+ Processes with time: 0.00835728645324707 and final result : 1.0007605186370954 
+Task number: 13
+Threads: with time: 0.0009217262268066406 and final result: 1.0005927414340317
+ Processes with time: 0.009237289428710938 and final result : 1.0005927414340317 
+Task number: 14
+Threads: with time: 0.0006995201110839844 and final result: 1.0007333775709963
+ Processes with time: 0.009337902069091797 and final result : 1.0007333775709966 
+Task number: 15
+Threads: with time: 0.001008749008178711 and final result: 1.0006494885554889
+ Processes with time: 0.010058879852294922 and final result : 1.000649488555489 
+Task number: 16
+Threads: with time: 0.0013968944549560547 and final result: 1.0006963674220357
+ Processes with time: 0.011838197708129883 and final result : 1.0006963674220357 

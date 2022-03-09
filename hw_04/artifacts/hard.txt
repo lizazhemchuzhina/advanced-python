@@ -1,0 +1,19 @@
+Time is 18:35:51   hello
+Time is 18:35:52   one
+
+Time is 18:35:52 encoded message is : uryyb
+Time is 18:35:56   punch
+
+Time is 18:35:56 encoded message is : bar
+Time is 18:36:03   man
+
+Time is 18:36:03 encoded message is : chapu
+Time is 18:36:08   is
+
+Time is 18:36:08 encoded message is : zna
+Time is 18:36:14   here
+
+Time is 18:36:14 encoded message is : vf
+Time is 18:36:15   exit
+
+Session was stopped
